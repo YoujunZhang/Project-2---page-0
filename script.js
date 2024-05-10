@@ -44,5 +44,5 @@ for (var i = 0; i < btns.length; i++) {
 
 
 function myFunction() {
-    location.replace("https://youjunzhang.github.io/Project-2-page-1/")
+    location.replace("https://youjunzhang.github.io/Project-2-page-1/");
   }
